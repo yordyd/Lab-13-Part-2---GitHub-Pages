@@ -1,0 +1,12 @@
+<html lang="en">
+<head>
+<link rel="stylesheet" href="blue.css"/>
+<title> Lab 13 About </title>
+</head>
+<body bgcolor="#E6E6FA">
+<h1>Lab 13, Part 1 - Review </h1>
+<h2> About</h2>
+<ul>
+<li> home links to home.html</li>
+<li> about links to about.html</li>
+<p> This is for MTEC1003 </p>
